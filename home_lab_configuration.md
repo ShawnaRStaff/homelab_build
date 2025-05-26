@@ -1365,7 +1365,7 @@ volumes:
 | Nginx Proxy Manager       | http://localhost:81           | 81    | Reverse proxy admin        |
 | **🔄 CI/CD**              |                               |       |                            |
 | Gitea                     | http://localhost:3000         | 3000  | Git repository             |
-| Jenkins                   | http://localhost:8085         | 8085  | CI/CD pipeline             |
+| Jenkins                   | http://localhost:8087         | 8085  | CI/CD pipeline             |
 | **📊 Monitoring**         |                               |       |                            |
 | Prometheus                | http://localhost:9090         | 9090  | Metrics collection         |
 | Grafana                   | http://localhost:3001         | 3001  | Dashboards                 |
